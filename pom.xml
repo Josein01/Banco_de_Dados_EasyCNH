@@ -8,11 +8,11 @@
 		<version>4.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.easycnh</groupId>
+	<artifactId>easycnh</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Banco de Dados EasyCNH</name>
+	<description>Esse projeto é uma base para o desenvolvimento do sistema EasyCNH</description>
 	<url/>
 	<licenses>
 		<license/>
